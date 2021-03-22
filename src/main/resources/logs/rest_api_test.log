@@ -1,0 +1,14 @@
+2021-03-22 09:56:10.502  INFO FioService.java   =============================================
+2021-03-22 09:56:10.503  INFO FioService.java   REQUEST:               {"id":1}
+2021-03-22 09:56:10.504  INFO FioService.java   REQUEST (encrypted)):  50f50974036c714cd3fe838c1ee0471068cee60fda68dfe60ce9b472ae46b6e7
+2021-03-22 09:56:10.504  INFO FioService.java   REQUEST (decrypted)):  {"id":1}
+2021-03-22 09:56:10.504  INFO FioService.java   RESPONSE:              {"fio":"Test Testov"}
+2021-03-22 09:56:10.504  INFO FioService.java   RESPONSE (encrypted)): 8bac062577c8f02e24e4cec0980a7feb7dbd7d56cfb24600b321d4ec18408d3be6efcfc02afa8b076706e143c1836fd7
+2021-03-22 09:56:10.505  INFO FioService.java   RESPONSE (decrypted)): {"fio":"Test Testov"}
+2021-03-22 09:56:19.009  INFO FioService.java   =============================================
+2021-03-22 09:56:19.009  INFO FioService.java   REQUEST:               {"id":0}
+2021-03-22 09:56:19.010  INFO FioService.java   REQUEST (encrypted)):  c557cdaddd2964ee72b216e23499e054d2742734c479625bf290efc2166772ae
+2021-03-22 09:56:19.010  INFO FioService.java   REQUEST (decrypted)):  {"id":0}
+2021-03-22 09:56:19.010  INFO FioService.java   RESPONSE:              {}
+2021-03-22 09:56:19.010  INFO FioService.java   RESPONSE (encrypted)): 307815ba9848143b60bd0107c484befec22d588b09ba804aa29f00469a955ad1
+2021-03-22 09:56:19.011  INFO FioService.java   RESPONSE (decrypted)): {}
